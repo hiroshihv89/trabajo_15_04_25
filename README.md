@@ -19,6 +19,8 @@ Comprobar que las propiedades básicas de las operaciones vectoriales se cumplen
 
 
 
+
+
 Alumno: Efrén Hiroshi Hernández Vicente
 
 Instructor: Saúl Sneider Chávez Chico
