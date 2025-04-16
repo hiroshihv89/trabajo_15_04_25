@@ -18,6 +18,7 @@ Comprobar que las propiedades básicas de las operaciones vectoriales se cumplen
 3. Muestra en pantalla si cada propiedad se cumple (`True`) o no (`False`).
 
 Alumno: Efrén Hiroshi Hernández Vicente
+
 Instructor: Saúl Sneider Chávez Chico
 
 ## SENATI
