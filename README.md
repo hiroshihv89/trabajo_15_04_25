@@ -17,12 +17,9 @@ Comprobar que las propiedades básicas de las operaciones vectoriales se cumplen
 2. El programa calcula y compara los resultados de cada propiedad utilizando operaciones vectoriales de NumPy.
 3. Muestra en pantalla si cada propiedad se cumple (`True`) o no (`False`).
 
+---
 
-
-
-
-Alumno: Efrén Hiroshi Hernández Vicente
-
-Instructor: Saúl Sneider Chávez Chico
+### 👤 Alumno: Efren Hiroshi Hernandez Vicente  
+### 👨‍🏫 Instructor: Saul Sneider Chavez Chico
 
 ## SENATI
